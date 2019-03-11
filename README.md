@@ -2,6 +2,8 @@
 
 #data_test contains validation data divided into two folders apple and other_fruit.
 
+#label.txt contain labels.
+
 #dir_traversal_tfrecord.py is used to find all tfrecords file in the directory.
 
 #read_image.py is used to read images from tfrecords file.
