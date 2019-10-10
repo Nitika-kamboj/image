@@ -3,6 +3,8 @@ import numpy as np # numpy module
 import os # path join
 import time
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 
 DATA_DIR = "data_dir"
 TRAINING_SET_SIZE = 50
